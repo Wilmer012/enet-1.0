@@ -15,7 +15,7 @@ ALSO MAKE SURE YOU INSTALL libmaxminddb by doing the following as a root:
 ##To install 
 
 1. Download the Files
-git clone https://github.com/speakzzz/enet-1.0.git
+git clone https://github.com/wilmer012/enet-1.0.git
 
 
 cd enet-1.0
@@ -31,4 +31,4 @@ make; make install
 Thanks to Nefarious Team For The Code
 Modified svsnick to support nick protection by GNUWorld (mod.cservice)
 
-Speakz @EvilNET IRC Network
+JhonDoe @RedHispano IRC Network
